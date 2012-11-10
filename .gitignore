@@ -1,4 +1,4 @@
-lib-cov
+server/lib-cov
 *.seed
 *.log
 *.csv
@@ -7,9 +7,9 @@ lib-cov
 *.pid
 *.gz
 
-pids
-logs
-results
+server/pids
+server/logs
+server/results
 
-node_modules
-npm-debug.log
+server/node_modules
+server/npm-debug.log
